@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/btnServisMasuk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tambah Servis"/>
+
+    <Button
+        android:id="@+id/btnListServis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Servis"/>
+
+    <Button
+        android:id="@+id/btnServisMenginap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Servis Menginap"/>
+
+    <Button
+        android:id="@+id/btnServisSelesai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Servis Selesai"/>
+
+    <Button
+        android:id="@+id/btnKembali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kembali"/>
+
+</LinearLayout>

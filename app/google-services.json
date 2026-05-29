@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894874167975",
+    "project_id": "bengkelapp-3e1e4",
+    "storage_bucket": "bengkelapp-3e1e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894874167975:android:2fbf2b1010158490b6c982",
+        "android_client_info": {
+          "package_name": "com.bengkel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894874167975-avo8u8hd9jesa45eijigeadaaek9k78k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengkel.app",
+            "certificate_hash": "a439494bd051f49fb27c12fccf7f782587560352"
+          }
+        },
+        {
+          "client_id": "894874167975-jn7fa9a72jbf1s1hj2dbrkiad5r51fi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2Bjst3ntUpv699zqQGMy40TetCFnnus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894874167975-jn7fa9a72jbf1s1hj2dbrkiad5r51fi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
