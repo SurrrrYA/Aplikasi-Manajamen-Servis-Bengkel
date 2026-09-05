@@ -1,6 +1,6 @@
 # Sempoelur Garage
 
-Aplikasi manajemen bengkel motor berbasis Android yang dikembangkan sebagai Tugas Akhir (skripsi), dengan backend PHP/MySQL untuk mendukung operasional bengkel secara digital — mulai dari pendaftaran servis, monitoring progres, hingga laporan keuangan.
+Aplikasi manajemen bengkel motor berbasis Android yang dikembangkan dengan backend PHP/MySQL untuk mendukung operasional bengkel secara digital — mulai dari pendaftaran servis, monitoring progres, hingga laporan keuangan.
 
 ## Fitur Utama
 
