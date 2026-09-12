@@ -28,7 +28,7 @@ Aplikasi manajemen bengkel motor berbasis Android yang dikembangkan dengan backe
 - PHP
 - MySQL
 - Bootstrap 5 (panel admin web)
-- 
+
 ## Detail Tampilan
 
 <p float="left">
