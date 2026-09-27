@@ -19,7 +19,6 @@ Aplikasi manajemen bengkel motor berbasis Android yang dikembangkan dengan backe
 
 **Frontend (Android)**
 - Kotlin
-- Material Design (tema ungu-putih)
 - Volley (networking)
 - Firebase Authentication
 - RecyclerView, BottomSheetDialogFragment
